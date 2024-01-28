@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 20
+names: ['Basil', 'Beef', 'Cheese', 'Chicken', 'Eggplant', 'Eggs', 'Green Pepper', 'Ham', 'Jalapenoes', 'Mushrooms', 'Nutella', 'Olives', 'Onions', 'Pepperoni', 'Pineapple', 'Pizza', 'Red Pepper', 'Rucola', 'Sausage', 'Tomato']
+
+roboflow:
+  workspace: pizzaassignment
+  project: pizza-detector-and-toppings
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/pizzaassignment/pizza-detector-and-toppings/dataset/2

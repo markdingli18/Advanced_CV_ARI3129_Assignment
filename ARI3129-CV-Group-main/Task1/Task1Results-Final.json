@@ -1,0 +1,232 @@
+{
+    "AbnormalPizza.jpg": {
+        "vgg": {
+            "pizza": 0.5400000214576721,
+            "soup_bowl": 0.3100000023841858,
+            "consomme": 0.10999999940395355,
+            "potpie": 0.009999999776482582,
+            "plate": 0.0
+        },
+        "resnet": {
+            "pizza": 0.8999999761581421,
+            "soup_bowl": 0.03999999910593033,
+            "plate": 0.029999999329447746,
+            "zucchini": 0.009999999776482582,
+            "consomme": 0.0
+        },
+        "inception": {
+            "pizza": 0.7900000214576721,
+            "broccoli": 0.05999999865889549,
+            "bagel": 0.009999999776482582,
+            "plate": 0.0,
+            "mashed_potato": 0.0
+        }
+    },
+    "FrenchBreadPizza.jpg": {
+        "vgg": {
+            "pizza": 0.5600000023841858,
+            "pomegranate": 0.07000000029802322,
+            "binder": 0.07000000029802322,
+            "strawberry": 0.05000000074505806,
+            "cleaver": 0.019999999552965164
+        },
+        "resnet": {
+            "pizza": 0.8600000143051147,
+            "meat_loaf": 0.10999999940395355,
+            "pomegranate": 0.0,
+            "toaster": 0.0,
+            "refrigerator": 0.0
+        },
+        "inception": {
+            "pizza": 0.8100000023841858,
+            "pomegranate": 0.019999999552965164,
+            "French_loaf": 0.0,
+            "bow_tie": 0.0,
+            "spatula": 0.0
+        }
+    },
+    "FullPizzaHalfImg.jpg": {
+        "vgg": {
+            "bottlecap": 0.4300000071525574,
+            "bolo_tie": 0.18000000715255737,
+            "toilet_seat": 0.05999999865889549,
+            "pizza": 0.05000000074505806,
+            "pomegranate": 0.05000000074505806
+        },
+        "resnet": {
+            "pizza": 0.8399999737739563,
+            "bottlecap": 0.10000000149011612,
+            "barrel": 0.019999999552965164,
+            "toilet_seat": 0.009999999776482582,
+            "wall_clock": 0.009999999776482582
+        },
+        "inception": {
+            "pizza": 0.6299999952316284,
+            "pomegranate": 0.03999999910593033,
+            "bottlecap": 0.009999999776482582,
+            "spindle": 0.009999999776482582,
+            "potpie": 0.009999999776482582
+        }
+    },
+    "ItalianPizza.jpg": {
+        "vgg": {
+            "Dutch_oven": 0.3400000035762787,
+            "pizza": 0.3100000023841858,
+            "frying_pan": 0.23000000417232513,
+            "puck": 0.09000000357627869,
+            "acorn_squash": 0.009999999776482582
+        },
+        "resnet": {
+            "frying_pan": 0.3700000047683716,
+            "pizza": 0.3499999940395355,
+            "Dutch_oven": 0.12999999523162842,
+            "wok": 0.09000000357627869,
+            "zucchini": 0.019999999552965164
+        },
+        "inception": {
+            "pizza": 0.8999999761581421,
+            "zucchini": 0.029999999329447746,
+            "frying_pan": 0.009999999776482582,
+            "Dutch_oven": 0.0,
+            "wok": 0.0
+        }
+    },
+    "MushroomPizza.jpg": {
+        "vgg": {
+            "pizza": 0.800000011920929,
+            "hot_pot": 0.10000000149011612,
+            "Dutch_oven": 0.029999999329447746,
+            "soup_bowl": 0.019999999552965164,
+            "frying_pan": 0.019999999552965164
+        },
+        "resnet": {
+            "pizza": 1.0,
+            "frying_pan": 0.0,
+            "potpie": 0.0,
+            "chocolate_sauce": 0.0,
+            "corn": 0.0
+        },
+        "inception": {
+            "pizza": 0.9900000095367432,
+            "broccoli": 0.0,
+            "zucchini": 0.0,
+            "mushroom": 0.0,
+            "waffle_iron": 0.0
+        }
+    },
+    "NormalPizzaMargeritha.jpg": {
+        "vgg": {
+            "pizza": 0.9700000286102295,
+            "acorn_squash": 0.009999999776482582,
+            "potpie": 0.0,
+            "French_loaf": 0.0,
+            "guacamole": 0.0
+        },
+        "resnet": {
+            "pizza": 0.9700000286102295,
+            "potpie": 0.009999999776482582,
+            "waffle_iron": 0.0,
+            "plate": 0.0,
+            "pretzel": 0.0
+        },
+        "inception": {
+            "pizza": 0.8799999952316284,
+            "potpie": 0.07999999821186066,
+            "French_loaf": 0.0,
+            "frying_pan": 0.0,
+            "Dutch_oven": 0.0
+        }
+    },
+    "PepporoniPizza.jpg": {
+        "vgg": {
+            "pomegranate": 0.6100000143051147,
+            "pizza": 0.38999998569488525,
+            "trifle": 0.0,
+            "fig": 0.0,
+            "strawberry": 0.0
+        },
+        "resnet": {
+            "pizza": 0.949999988079071,
+            "pomegranate": 0.05000000074505806,
+            "fig": 0.0,
+            "trifle": 0.0,
+            "wooden_spoon": 0.0
+        },
+        "inception": {
+            "pizza": 0.5099999904632568,
+            "pomegranate": 0.4000000059604645,
+            "bow_tie": 0.0,
+            "organ": 0.0,
+            "hognose_snake": 0.0
+        }
+    },
+    "PepporoniPizza2.jpg": {
+        "vgg": {
+            "pizza": 1.0,
+            "bakery": 0.0,
+            "spatula": 0.0,
+            "French_loaf": 0.0,
+            "rotisserie": 0.0
+        },
+        "resnet": {
+            "pizza": 1.0,
+            "frying_pan": 0.0,
+            "trifle": 0.0,
+            "spatula": 0.0,
+            "sea_urchin": 0.0
+        },
+        "inception": {
+            "pizza": 0.949999988079071,
+            "hognose_snake": 0.0,
+            "umbrella": 0.0,
+            "sleeping_bag": 0.0,
+            "pomegranate": 0.0
+        }
+    },
+    "PizzaWithHands.jpg": {
+        "vgg": {
+            "tick": 0.5400000214576721,
+            "buckeye": 0.09000000357627869,
+            "frilled_lizard": 0.05000000074505806,
+            "leafhopper": 0.019999999552965164,
+            "weevil": 0.019999999552965164
+        },
+        "resnet": {
+            "nail": 0.25,
+            "French_loaf": 0.07999999821186066,
+            "buckeye": 0.03999999910593033,
+            "tick": 0.03999999910593033,
+            "frilled_lizard": 0.029999999329447746
+        },
+        "inception": {
+            "frilled_lizard": 0.10999999940395355,
+            "potpie": 0.029999999329447746,
+            "chambered_nautilus": 0.019999999552965164,
+            "earthstar": 0.019999999552965164,
+            "sundial": 0.019999999552965164
+        }
+    },
+    "PizzaWithWatermark.jpg": {
+        "vgg": {
+            "pizza": 1.0,
+            "pomegranate": 0.0,
+            "tray": 0.0,
+            "bagel": 0.0,
+            "toilet_seat": 0.0
+        },
+        "resnet": {
+            "pizza": 1.0,
+            "toilet_seat": 0.0,
+            "strawberry": 0.0,
+            "bagel": 0.0,
+            "trifle": 0.0
+        },
+        "inception": {
+            "pizza": 0.8899999856948853,
+            "toilet_seat": 0.0,
+            "frying_pan": 0.0,
+            "spotlight": 0.0,
+            "soup_bowl": 0.0
+        }
+    }
+}
